@@ -1,0 +1,13 @@
+# 컴퓨터 공학 활용 개인과제２
+
+## 수행 내용
+１。 단계 1. GitHub에 본인 계정으로 들어가서 repository 생성
+２。 단계 2. sourcetree를 이용하여 위의 repository를 clone 함
+３。 단계 3. 2항에서 커밋한 내용을 1항에서 생성한 github-hw repository로 push 함
+４。 단계 4. 현재의 sourccetree 화면을 캡쳐하여 pdf화일로 만들고 local repository로 commit함
+５。 단계 5. 4항에서 커밋한 내용을 1항에서 생성한 github-hw repository로 push 함
+
+## 결과
+- GitHub 저장소에 README.md 파일 작성 및 저장 완료
+- Markdown 형식으로 수행 내용을 깔끔하게 정리함
+- 커밋과 푸시가 정상적으로 이루어짐
